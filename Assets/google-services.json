@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "715125683788",
+    "project_id": "jhonny-5aea5",
+    "storage_bucket": "jhonny-5aea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715125683788:android:5206f67a58ef6c100de6e9",
+        "android_client_info": {
+          "package_name": "com.tonyfdez.jhonny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715125683788-kkv38ojs02rtujudmsovc42kc3m92ao6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklTSkvY6UVjIMM99HncYCaNlXp-mKd88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715125683788-kkv38ojs02rtujudmsovc42kc3m92ao6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715125683788-obacdk8uqj99p6quupn81r45t5l4cm2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tonyfdez.jhonny"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
